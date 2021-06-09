@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+ *  Copyright 2021 Ann Binus
 
 * Exercise 11 - Currency Conversion
 At some point, you might have to deal with currency exchange rates, and you’ll need to ensure your calculations are as precise as possible.
